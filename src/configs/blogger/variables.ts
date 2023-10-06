@@ -2,9 +2,9 @@
 import { UserPayload } from "../interfaces/google";
 
 const CLIENT_ID =
-	"933127837947-sj25cbgrm5q2g2pd541vt6j77ukbk5gm.apps.googleusercontent.com";
-const CLIENT_SECRETS = "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";
-const API_KEY = "AIzaSyA3H_u2_6HELRrheGnS_JPZ4sBcIVOlu50";
+	"933127837947-asj25cbgrm5q2g2pd541vt6j77ukbk5gm.apps.googleusercontent.com";
+const CLIENT_SECRETS = "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t";
+const API_KEY = "AIzaSyA3H_u2_6HELRrheGnS_OJPZ4sBcIVOlu50";
 const DISCOVERY_DOC =
 	"https://www.googleapis.com/discovery/v1/apis/blogger/v3/rest";
 const SCOPES = ["email", "profile", "https://www.googleapis.com/auth/blogger"];
